@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pruthviraj Auti</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvii09&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvii09" /> </p>
 
-- 🔭 I’m currently working on [ModernConnect](https://github.com/pruthvii09/modernConnect)
+- 🌱 I’m currently learning **AWS, Cloud**
 
-- 🌱 I’m currently learning **NodeJs,MongoDB**
+- 👨‍💻 All of my projects are available at [https://portfolio-pruthviraj.vercel.app/](https://portfoliobuilderpruthvi.vercel.app/pruthvii)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pruthviraj.vercel.app/](https://portfolio-pruthviraj.vercel.app/)
-
-- 💬 Ask me about **ReactJS,HTML,CSS,JavaScript**
+- 💬 Ask me about **Backend Technologies**
 
 - 📫 How to reach me **contact.pruthvirajauti@gmail.com**
 
