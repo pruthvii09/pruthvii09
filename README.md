@@ -51,10 +51,6 @@ $ learning
 system design · distributed systems · AI agent architecture ·
 LLM infrastructure · high-scale event-driven APIs ·
 
-```
-$ build → break → understand → rebuild
-```
-
 <br>
 
 <div align="center">
